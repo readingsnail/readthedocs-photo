@@ -3,7 +3,7 @@
 
 이 사이트는 **사진관련 기술 이나 여담등을 이야기 하는 장소** 입니다.
 
-수정을 원하시면 첫번째 방법으로는 https://github.com/readingsnail/readthedocs-photo/ - 혹은 당근이나 `메일 <mailto:bjh13579@gmail.com>`_등으로 알려주세요.
+수정을 원하시면 첫번째 방법으로는 `메일 <https://github.com/readingsnail/readthedocs-photo/>`_ - 혹은 당근이나 메일등으로 알려주세요.
 
 내용은 수시로 변경될 수 있습니다. 또한 너무 깊게는 들어가지 않을겁니다. 간단하게 보고 넘기는 안내를 지향합니다.
 
