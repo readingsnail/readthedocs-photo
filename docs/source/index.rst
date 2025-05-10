@@ -1,22 +1,22 @@
-Welcome to Lumache's documentation!
+사진 기술 혹은 이론, 여담
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+이 사이트는 **사진관련 기술 이나 여담**등을 이야기 하는 장소입니다.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+수정을 원하시면 첫번째 방법으로는 `리누스 토발즈라는 욕쟁이가 빡쳐서 수주안에 만든 물건 <https://github.com/readingsnail/readthedocs-photo/>` 혹은 당근이나 기타 등등으로 알려주세요
 
-.. note::
+내용은 수시로 변경될수 있습니다. 잘 알려주세요.
 
-   This project is under active development.
+.. 참고::
+
+   계속 갱신되며, 여럿 잡소리가 포함될 수 있습니다. Git은 아는 사람 아니면 힘드니 아래로 알려주세요
 
 Contents
 --------
 
 .. toctree::
 
-   usage
-   api
+   사진기술
+   필름
+   디지털
+   기타
