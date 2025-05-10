@@ -13,3 +13,5 @@
 디지털의 경우엔, 센서 자체(CMOS, CCD)가 빛을 받아들이니까 자동이죠.
 
 사실 다 안알아도 상관은 없습니다. 방향만 알아도 괜찮은것이 나오니까요.
+
+EV에 관한건 `여기  https://photo-technic-tmi.readthedocs.io/ko/latest/%EA%B8%B0%ED%83%80.html`_ 를 봐주세요.
