@@ -1,7 +1,7 @@
 사진 기술 혹은 이론, 여담
 ===================================
 
-이 사이트는 **사진관련 기술 이나 여담등을 이야기 하는 장소** 입니다.
+이 사이트는 **사진관련 기술이나 여담등을 이야기 하는 장소** 입니다.
 
 수정을 원하시면 첫번째 방법으로는 `Github Pull Request <https://github.com/readingsnail/readthedocs-photo/>`_ - 혹은 링크에 적은 메일이나 기타등으로 알려주세요. 파리 잡는데 파리채가 아니라, 스털링 실버 은판을 들고 잡는것이나 다름없지만요.
 
@@ -9,7 +9,7 @@
 
 필름 / 디지털 항목들은 특화된 항목입니다. 예를 들어 필름의 ISO는 할로젠화 은 결정의 크기로 결정되지만, 디지털의 ISO는 또 다르죠.
 
-흑백 필름을 주로 만드는 일포드의 `친절한 설명 <https://youtube.com/playlist?list=PLarwq93oldzTPKIn4-RMP6w9_khSkuD-I&si=jDno_2dNHvG-EST0>`_ 도 있어요 - 5화까지만 보시면 됩니다.
+흑백 필름을 주로 만드는 일포드의 `친절한 설명 <https://youtube.com/playlist?list=PLarwq93oldzTPKIn4-RMP6w9_khSkuD-I&si=jDno_2dNHvG-EST0>`_ 도 있어요. 그냥 5화까지만 보시면 됩니다.
 
 사진이란 뭘까?
 -----------
@@ -25,7 +25,7 @@
 내용들
 --------
 .. toctree::
-   :maxdepth: 4
+   :maxdepth: 3
 
    사진기초
    필름
