@@ -6,7 +6,7 @@ GIMP란 뭘까?
 
 .. image:: images/gimp-3.0.jpg
  :width: 600
-**GNU IMAGE MANIPULATION PROGRAM** - GNU 이미지 편집 프로그램이라고 불리는 오픈소스 계에서의 포토샵(레스터 이미지 생성, 사진 수정등등) 역할을 하는 프로그램입니다. 당연히, `Darktable <https://www.darktable.org/>`_ 이라고 하는 어도비 라이트룸과 비슷한 RAW 편집 프로그램이 있지만, GIMP의 경우 한글화가 좀 되어 있고 포토샵처럼 쓸수 있다는 것도 장점이군요. 이번 3.0부터는 필터를 적용하고 되돌릴수 없었던 문제를 해결한 비파괴 편집과 캔버스서 바로 미리보기가 가능하게 되었습니다.
+**GNU IMAGE MANIPULATION PROGRAM** - GNU 이미지 처리 프로그램이라고 불리는 오픈소스 계에서의 포토샵(레스터 이미지 생성, 사진 수정등등) 역할을 하는 프로그램입니다. 당연히, `Darktable <https://www.darktable.org/>`_ 이라고 하는 어도비 라이트룸과 비슷한 RAW 편집 프로그램이 있지만, GIMP의 경우 한글화가 좀 되어 있고 포토샵처럼 쓸수 있다는 것도 장점이군요. 이번 3.0부터는 필터를 적용하고 되돌릴수 없었던 문제를 해결한 비파괴 편집과 캔버스서 바로 미리보기가 가능하게 되었습니다.
 
 .. image:: images/gimp.jpg
  :width: 600
