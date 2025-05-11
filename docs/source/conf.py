@@ -3,7 +3,7 @@
 # -- Project information
 
 project = 'Photo Tech & TMI'
-copyright = Twoflower and Others, CC-BY-SA 4.0 or All right Reserved'
+copyright = 'Twoflower and Others, CC-BY-SA 4.0 or All right Reserved'
 author = 'Twoflower and Others'
 
 release = '0.1'
