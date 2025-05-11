@@ -1,9 +1,1 @@
-Template for the Read the Docs tutorial
-=======================================
-
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
-
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+내용이 없거나 부족하다면 bjh13579@gmail.com 로 메일 주시거나 기타 등등으로 알려주세요 'ㅅ'
