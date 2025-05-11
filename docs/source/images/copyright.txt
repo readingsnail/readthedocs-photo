@@ -9,3 +9,4 @@
 * filmcrystal.jpg, filmlayer.jpg, filmmasking.jpg - https://www.youtube.com/watch?v=I4_7tW-cx1
 * biorobot.jpg - https://www.nationalgeographic.com/science/article/chernobyl-25-years-liquidators-pictures
 * rpicmount.jpg - https://www.raspberrypi.com/products/raspberry-pi-high-quality-camera/
+* gimp-3.0.jpg - https://www.gimp.org/news/2025/03/16/gimp-3-0-released. 원 저작자 - Sevenix. CC-BY-SA 4.0
