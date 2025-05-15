@@ -11,6 +11,8 @@
 
 흑백 필름을 주로 만드는 일포드의 `친절한 설명 <https://youtube.com/playlist?list=PLarwq93oldzTPKIn4-RMP6w9_khSkuD-I&si=jDno_2dNHvG-EST0>`_ 도 있어요. 그냥 5화까지만 보시면 됩니다.
 
+사진이나 그림에 대한 저작권은  `여기 <https://github.com/readingsnail/readthedocs-photo/blob/main/docs/source/images/copyright.txt>`_ 에 있습니다.
+
 사진이란 뭘까?
 -----------
 위키백과 등에선 ‘빛, 즉 광자를 기록’ 하는 걸 말합니다. 영어의 Photography도 같구요. 광자를 기록한다로 정의하면 엄청나게 범위가 넓어집니다. 현 반도체 공정인 포토리소그래피는 광자로 회로도를 ‘노출’ 시켜 ‘인화’ 합니다. 이건 사진이 아닐까요? X선도 광자입니다? 정형외과에서 X선 필름으로 찍는건 사진일까요? CT나 SPECT 같은 X선이나 감마선 영상 집합체를 보고 우린 사진이라 합니다. 제임스 웹도 사진일까요? 이것도 광자를 기록해서 보내죠...
@@ -31,5 +33,5 @@
    사진기초
    필름
    디지털
-   GIMP
+   보정프로그램
    기타

@@ -6,8 +6,8 @@ project = 'Photo Tech & TMI'
 copyright = 'Twoflower and Others, CC-BY-SA 4.0 or All right Reserved'
 author = 'Twoflower and Others'
 
-release = '0.1'
-version = '0.1'
+release = '42'
+version = '42'
 
 # -- General configuration
 
