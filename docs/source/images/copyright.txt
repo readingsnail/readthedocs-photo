@@ -11,4 +11,4 @@
 * rpicmount.jpg - https://www.raspberrypi.com/products/raspberry-pi-high-quality-camera/
 * gimp-3.0.jpg - https://www.gimp.org/news/2025/03/16/gimp-3-0-released. 원 저작자 - Sevenix. CC-BY-SA 4.0
 * rf_mechanism.jpg - https://commons.wikimedia.org/wiki/File:Rangefinder_Camera_Mechanism.svg. 원 저작자 - Jjw. CC-BY-SA 4.0
-* Defeated_Soldier.jpg - Photograph: Tony Vaccaro/Courtesy Monroe Gallery. All Right Reserved.
+* KissOfLiberation.jpg - Photograph: Tony Vaccaro/Courtesy Monroe Gallery. All Right Reserved.
