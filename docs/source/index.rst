@@ -13,6 +13,25 @@
 
 사진이나 그림에 대한 저작권은  `여기 <https://github.com/readingsnail/readthedocs-photo/blob/main/docs/source/images/copyright.txt>`_ 에 있습니다.
 
+저작권 알림
+-----------------------
+
+.. raw:: html
+
+    <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /></a>
+
+특정 그림들을 제외하고 (`참고 <https://github.com/readingsnail/readthedocs-photo/blob/main/docs/source/images/copyright.txt>`_), 사이트의 내용물들은 달리 정하지 않는 한 **저작자표시-동일조건변경허락 4.0 국제 라이선스** 를 따릅니다. `전체 법적 라이선스 내용 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`_ 은 여기를 참고해주세요.
+
+가능한 이용
+~~~~~~~~~~~~~~~
+* 복사 및 배포를 할 수 있습니다.(반드시 저작자 및 출처를 표시합니다.)
+* 상업적 이용이 가능합니다.
+* 이 저작물을 변경하거나, 이용해 2차 저작물을 만들어도 됩니다.(반드시 원저작자 및 출처를 표시합니다.)
+
+제한된 이용
+~~~~~~~~~~~~~~~~~~~~~~~~~
+* 2차 저작물에 원저작물과 동일한 라이선스를 적용해야 합니다.
+
 사진이란 뭘까?
 -----------
 위키백과 등에선 ‘빛, 즉 광자를 기록’ 하는 걸 말합니다. 영어의 Photography도 같구요. 광자를 기록한다로 정의하면 엄청나게 범위가 넓어집니다. 현 반도체 공정인 포토리소그래피는 광자로 회로도를 ‘노출’ 시켜 ‘인화’ 합니다. 이건 사진이 아닐까요? X선도 광자입니다? 정형외과에서 X선 필름으로 찍는건 사진일까요? CT나 SPECT 같은 X선이나 감마선 영상 집합체를 보고 우린 사진이라 합니다. 제임스 웹도 사진일까요? 이것도 광자를 기록해서 보내죠...
