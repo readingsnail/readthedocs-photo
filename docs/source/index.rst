@@ -20,7 +20,7 @@
 
     <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /></a>
 
-특정 그림들을 제외하고 (`참고 <https://github.com/readingsnail/readthedocs-photo/blob/main/docs/source/images/copyright.txt>`_), 사이트의 내용물들은 달리 정하지 않는 한 **저작자표시-동일조건변경허락 4.0 국제 라이선스** 를 따릅니다. `전체 법적 라이선스 내용 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`_ 은 여기를 참고해주세요.
+특정 그림들을 제외하고 (`참고 <https://github.com/readingsnail/readthedocs-photo/blob/main/docs/source/images/copyright.txt>`_), 사이트의 내용물들은 달리 정하지 않는 한 **저작자표시-동일조건변경허락 4.0 국제 라이선스** 를 따릅니다. `전체 법적 라이선스 내용 <https://creativecommons.org/licenses/by-sa/4.0/legalcode.ko>`_ 은 여기를 참고해주세요.
 
 가능한 이용
 ~~~~~~~~~~~~~~~
