@@ -11,9 +11,7 @@
 
 흑백 필름을 주로 만드는 일포드의 `친절한 설명 <https://youtube.com/playlist?list=PLarwq93oldzTPKIn4-RMP6w9_khSkuD-I&si=jDno_2dNHvG-EST0>`_ 도 있어요. 그냥 5화까지만 보시면 됩니다.
 
-사진이나 그림에 대한 저작권은  `여기 <https://github.com/readingsnail/readthedocs-photo/blob/main/docs/source/images/copyright.txt>`_ 에 있습니다.
-
-저작권 알림
+사이트 전체의 저작권 알림
 -----------------------
 
 .. raw:: html
@@ -22,11 +20,13 @@
 
 특정 그림들을 제외하고 (`참고 <https://github.com/readingsnail/readthedocs-photo/blob/main/docs/source/images/copyright.txt>`_), 사이트의 내용물들은 달리 정하지 않는 한 **저작자표시-동일조건변경허락 4.0 국제 라이선스** 를 따릅니다. `전체 법적 라이선스 내용 <https://creativecommons.org/licenses/by-sa/4.0/legalcode.ko>`_ 은 여기를 참고해주세요.
 
+더 깊은 이야기는 `저작권 <https://photo-technic-tmi.readthedocs.io/ko/latest/저작권.html>`_ 항목을 봐주세요.
+
 가능한 이용
 ~~~~~~~~~~~~~~~
-* 복사 및 배포를 할 수 있습니다.(반드시 저작자 및 출처를 표시합니다.)
-* 상업적 이용이 가능합니다.
-* 이 저작물을 변경하거나, 이용해 2차 저작물을 만들어도 됩니다.(반드시 원저작자 및 출처를 표시합니다.)
+* 복사 및 배포를 할 수 있습니다.(반드시 저작자 및 출처를 표시해야 합니다.)
+* 상업적 이용은 당연히 가능합니다.
+* 이 저작물을 변경하거나, 이용해 2차 저작물을 만들어도 됩니다.(반드시 원저작자 및 출처를 표시해야 합니다.)
 
 제한된 이용
 ~~~~~~~~~~~~~~~~~~~~~~~~~
