@@ -2,13 +2,13 @@
 ===================================
 이 사이트는 **사진 관련 기술이나 여담을 이야기하는 장소** 입니다.
 
-수정을 원하시면 첫번째 방법으로는 `Github Pull Request <https://github.com/readingsnail/readthedocs-photo/>`_ - 혹은 링크에 적은 메일등으로 알려주세요. 이 사이트 자체가 파리 잡는데 파리채가 아니라, 스털링 실버(92.5%) 은판을 들고 잡는 것이나 다름없지만 말이죠.
+수정을 원하시면 첫번째 방법으로는 `Github Pull Request <https://github.com/readingsnail/readthedocs-photo/>`_ - 혹은 링크에 적은 메일등으로 알려주세요. 이 사이트 자체가 파리 잡는데 파리채가 아니라, 스털링 실버(은 92.5%) 은판을 들고 잡는 것이나 다름없지만 말이죠.
 
 내용은 수시로 변경될 수 있습니다. 될수 있는한 깊게는 들어가지 않을 것입니다. 간단하게 보고 넘기는 내용을 지향합니다.
 
 필름 / 디지털 항목들은 이에 특화된 항목입니다. 예를 들어 필름의 ISO는 할로젠화 은 결정의 크기로 결정되지만, 디지털의 ISO는 또 다르죠. 특화된 항목이지만, 겹치는 부분도 존재합니다. 이렇게 둘다 묶을수 있지만, 곁다리로 볼수 있는 항목은 기타에 배치했습니다.
 
-간단하게 보자면 흑백 필름을 주로 만드는 일포드의 `친절한 설명 <https://youtube.com/playlist?list=PLarwq93oldzTPKIn4-RMP6w9_khSkuD-I&si=jDno_2dNHvG-EST0>`_ 도 있어요. 5화까지만 보시면 됩니다.
+간단하게 보자면 흑백 필름을 주로 만드는 일포드의 `친절한 설명 <https://youtube.com/playlist?list=PLarwq93oldzTPKIn4-RMP6w9_khSkuD-I&si=jDno_2dNHvG-EST0>`_ 도 있어요. 5화까지만 보시면 됩니다. 어도비에서 만든 `잘 찍는 구도 등의 설명 <https://www.adobe.com/kr/creativecloud/photography/discover.html>`_ 도 보면 괜찮겠군요.
 
 사이트 전체의 저작권 알림
 --------------------------
