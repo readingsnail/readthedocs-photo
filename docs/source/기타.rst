@@ -61,11 +61,11 @@ Exposure value (EV)
 
 iOS
 ^^^^^
-iOS 에선 여러앱이 있습니다. 전 `lightmtr <https://apps.apple.com/kr/app/lghtmtr/id956251190>`_ 이나 혹은 한국분(DC인사이드 필름카메라 갤분)이 만든 `해빛 <https://apps.apple.com/kr/app/%ED%95%B4%EB%B9%9B/id6474086258>`_ 을 추천합니다. 
+iOS 에선 여러앱이 있습니다. 전 `Light Lamb <https://apps.apple.com/kr/app/light-lamb/id1580207650>`_ 이나 혹은 한국분(DC인사이드 필름카메라 갤분)이 만든 `해빛 <https://apps.apple.com/kr/app/%ED%95%B4%EB%B9%9B/id6474086258>`_ 을 추천합니다. 
 
-.. image:: images/lightmtr.jpg
+.. image:: images/lamb.jpg
  :width: 600
-이건 Lightmtr의 화면이네요.
+이건 Light Lamb의 화면이네요.
 
 유료로 다른 곳에서도 호평받는것은 `myLightmeter Pro <https://photo-technic-tmi.readthedocs.io/ko/latest/필름.html#id3>`_ 가 있네요. 가격도 저렴하고, 여러 셋팅과 더불어 직사 / 반사를 정할수도 있죠.
 
