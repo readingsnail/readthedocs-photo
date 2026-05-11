@@ -19,7 +19,7 @@
 
 특정 그림들을 제외하고 (`참고 <https://github.com/readingsnail/readthedocs-photo/blob/main/docs/source/images/copyright.txt>`_), 사이트의 내용물들은 달리 정하지 않는 한 **저작자표시-동일조건변경허락 4.0 국제 라이선스** 를 따릅니다. `전체 법적 라이선스 내용 <https://creativecommons.org/licenses/by-sa/4.0/legalcode.ko>`_ 은 여기를 참고해주세요.
 
-더 깊은 이야기는 `저작권 <https://photo-technic-tmi.readthedocs.io/ko/latest/저작권.html>`_ 항목을 봐주세요.
+더 깊은 이야기는 `저작권 <https://photo-technic-tmi.readthedocs.io/%EC%A0%80%EC%9E%91%EA%B6%8C.html>`_ 항목을 봐주세요.
 
 가능한 이용
 ~~~~~~~~~~~~~~~
@@ -33,7 +33,7 @@
 
 사진이란 뭘까?
 -----------
-사진의 한자 뜻(寫眞)인 진짜를 베끼다(자세한 것은 `아우라 <https://photo-technic-tmi.readthedocs.io/ko/latest/기타.html#id4>`_ 항목을 보세요)보단, 이게 더 낫겠군요 - 위키백과 등에선 ‘빛, 즉 광자를 기록’ 하는 걸 말합니다. 영어의 Photography도 같구요. 광자를 기록한다로 정의하면 엄청나게 범위가 넓어집니다. 현 반도체 공정인 리소그래피(lithography)도 광자(현재는 X선쪽에 약간 포함되는 EUV)를 실리콘에 ‘노출’ 시켜 ‘인화’ 하는 과정을 반복하여 칩을 제작합니다.
+사진의 한자 뜻(寫眞)인 진짜를 베끼다(자세한 것은 `아우라 https://photo-technic-tmi.readthedocs.io/%EA%B8%B0%ED%83%80.html#id7>`_ 항목을 보세요)보단, 이게 더 낫겠군요 - 위키백과 등에선 ‘빛, 즉 광자를 기록’ 하는 걸 말합니다. 영어의 Photography도 같구요. 광자를 기록한다로 정의하면 엄청나게 범위가 넓어집니다. 현 반도체 공정인 리소그래피(lithography)도 광자(현재는 X선쪽에 약간 포함되는 EUV)를 실리콘에 ‘노출’ 시켜 ‘인화’ 하는 과정을 반복하여 칩을 제작합니다.
 
 생각도 하지 않았던 것들이 사진 범위에 포함되지만, 우린 그것들을 사진술이라 부르지 않습니다.
 

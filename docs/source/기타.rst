@@ -97,4 +97,4 @@ Walter Benjamin, "Das Kunstwerk im Zeitalter seiner technischen Reproduzierbarke
 
 이런 일이 벌어지는 이유는 우리가 아는 방사선(알파선, 베타선, X선, 감마선, 중성자선)은 물질을 이온화 시킬수 있다고 해서 이온화 방사선이라고 합니다. 간단하게 에너지(eV, 전자 볼트란 뜻으로, 1 eV는 1볼트와 같습니다. 비교하자면 가시광선은 평균 3.23 eV 인데, CT는 40~70 KeV 를 찍습니다)가 높아서 깽판치는 걸로 보시면 됩니다. 사진으로 찍는 가시광선은 에너지가 낮아서 이온화를 시키지 않아요. 전파도 마찬가지구요.
 
-그래서 방사선 문제는 필름뿐 아니라, 디지털도 마찬가지입니다. 필름에 어떤 영향이 가는지 보실려면, `여길 <https://photo-technic-tmi.readthedocs.io/ko/latest/필름.html#id3>`_ 보시면 됩니다.
+그래서 방사선 문제는 필름뿐 아니라, 디지털도 마찬가지입니다. 필름에 어떤 영향이 가는지 보실려면, `여길 <https://photo-technic-tmi.readthedocs.io/%ED%95%84%EB%A6%84.html#id3>`_ 보시면 됩니다.
