@@ -2,12 +2,12 @@
 
 # -- Project information
 
-project = 'Photo Tech & TMI'
+project = '사진 기술 및 잡단'
 copyright = 'Twoflower and Others, CC-BY-SA 4.0 or All right Reserved'
 author = 'Twoflower and Others'
 
-release = '42'
-version = '42'
+release = ''
+version = ''
 
 # -- General configuration
 
