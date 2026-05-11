@@ -29,7 +29,7 @@ templates_path = ['_templates']
 
 # -- Options for HTML output
 
-html_theme = 'sphinx_rtd_theme'
+html_theme = 'furo'
 html_extra_path = ['robots.txt']
 
 # -- Options for EPUB output
