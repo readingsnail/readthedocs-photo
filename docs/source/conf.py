@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = '사진 기술 및 잡단'
+project = '사진 기술 및 잡담들'
 copyright = 'Twoflower and Others, CC-BY-SA 4.0 or All right Reserved'
 author = 'Twoflower and Others'
 
