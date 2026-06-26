@@ -70,7 +70,7 @@
 
 필름에서의 ISO는 뭡니까?
 -----------------------------------
-`노출 삼각형 <https://photo-technic-tmi.readthedocs.io/%EC%82%AC%EC%A7%84%EA%B8%B0%EC%B4%88.html#id2>`_ 아래의 ISO에서 대충 빛의 감도하면서 세부적으로 다름이라고 적어놨었죠?
+`노출 삼각형 <https://photo-technic-tmi.readthedocs.io/ko/latest/%EC%82%AC%EC%A7%84%EA%B8%B0%EC%B4%88.html#id2>`_ 아래의 ISO에서 대충 빛의 감도하면서 세부적으로 다름이라고 적어놨었죠?
 
 일단 위에서 할로젠화 은을 이야기했습니다. 이건 화학물질이고, 어느 빛이든 닿이면 감광되는 터라 금속 캐니스터에 담아야 합니다.
 

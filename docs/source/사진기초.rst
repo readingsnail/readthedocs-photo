@@ -14,7 +14,7 @@
 
 사실 다 안알아도 상관은 없습니다. 방향만 알아도 괜찮은것이 나오니까요.
 
-노출값, EV에 관한건 `기타 <https://photo-technic-tmi.readthedocs.io/%EA%B8%B0%ED%83%80.html#exposure-value-ev>`_ 페이지의 내용을 참고해주세요
+노출값, EV에 관한건 `기타 <https://photo-technic-tmi.readthedocs.io/ko/latest/%EA%B8%B0%ED%83%80.html#exposure-value-ev>`_ 페이지의 내용을 참고해주세요
 
 상반칙불궤
 ---------------
@@ -55,7 +55,7 @@
 #. 노출계나 노출계 앱 - 장노출 제원을 넣으면 계산해주는 앱도 있습니다.
 #. ND 필터 같이 조리개 값을 올릴수 있는 필터 (밝은 대낮 환경)
 
-`아날로그 노출계 보는 법 <https://photo-technic-tmi.readthedocs.io/%EA%B8%B0%ED%83%80.html#id3>`_ 은 이걸 참고하시고, 필름의 경우엔 힘듭니다 - 필름은 ISO가 정해져 있으니 말이죠.
+`아날로그 노출계 보는 법 <https://photo-technic-tmi.readthedocs.io/ko/latest/%EA%B8%B0%ED%83%80.html#id3>`_ 은 이걸 참고하시고, 필름의 경우엔 힘듭니다 - 필름은 ISO가 정해져 있으니 말이죠.
 
 야간 장노출 - 천체 사진등
 *************************
