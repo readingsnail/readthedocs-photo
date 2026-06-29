@@ -1,1 +1,1 @@
-수정을 하고 싶은데 Pull Request 같은 방식이 현기증이 난다면, bjh13579@gmail.com 로 메일을 보내주세요.
+수정을 하고 싶은데 Git의 Pull Request 같은 방식이 현기증이 난다면, bjh13579@gmail.com 로 메일을 보내시거나, 아님 알려주세요
